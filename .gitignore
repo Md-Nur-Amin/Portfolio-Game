@@ -30,3 +30,4 @@ tailwind.config.js
 package.json
 package-lock.json
 index.css
+.gitignore
